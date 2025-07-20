@@ -119,7 +119,7 @@ $lines = array(
 	],
 	[
 		"title"=>"The Gunslinger", "line"=>"The man in black fled across the desert and the gunslinger followed.",
-		"author"=>"", "cover"=>""
+		"author"=>"Stephen King", "cover"=>"dark-tower-i-the-gunslinger.jpg"
 	],
 	[
 		"title"=>"The Hitchhiker’s Guide to the Galaxy", "line"=>"Far out in the uncharted backwaters of the unfashionable end of the Western Spiral arm of the Galaxy lies a small unregarded yellow sun.",
@@ -347,34 +347,36 @@ $lines = array(
 	],
 	[
 		"title"=>"Changing Places: A Tale Of Two Campuses", "line"=>"High, high above the North Pole on the first day of 1969, two professors of English Literature approached each other at a combined velocity of 1200 miles per hour.",
-		"author"=>"", "cover"=>""
+		"author"=>"David Lodge", "cover"=>"changing-places-3.webp"
 	],
 	[
 		"title"=>"The Napoleon Of Notting Hill", "line"=>"The human race, to which so many of my readers belong has been playing at children’s games from the beginning, and will probably do it till the end, which is a nuisance for the few people who grow up.",
-		"author"=>"", "cover"=>""
+		"author"=>"G.K.Chesterton", "cover"=>"the-napoleon-of-notting-hill-65.webp"
 	],
 	[
 		"title"=>"A River Runs Through It", "line"=>"In our family, there was no clear line between religion and fly-fishing.",
-		"author"=>"", "cover"=>""
+		"author"=>"Norman MacLean", "cover"=>"a-river-runs-through-it-and-other-stories-2.webp"
 	],
 	[
 		"title"=>"To Kill A Mockingbird", "line"=>"When he was nearly thirteen, my brother Jem got his arm badly broken at the elbow.",
-		"author"=>"", "cover"=>""
+		"author"=>"Harper Lee", "cover"=>"to-kill-a-mockingbird-4.webp"
 	],
 	[
 		"title"=>"High-Rise", "line"=>"Later, as he sat on his balcony eating the dog, Dr Robert Laing reflected on the unusual events that had taken place within this huge apartment building during the previous three months.",
-		"author"=>"", "cover"=>""
+		"author"=>"J.G.Ballard", "cover"=>"high-rise-1.webp"
 	],
 	[
 		"title"=>"And Then There Were None", "line"=>"In the corner of a first-class smoking carriage, Mr. Justice Wargrave, lately retired from the bench, puffed at a cigar and ran an interested eye through the political news in the Times.",
-		"author"=>"", "cover"=>""
+		"author"=>"Agatha Christie", "cover"=>"and-then-there-were-none-the-best-selling-murder-mystery-of-all-time.webp"
 	],
 	[
 		"title"=>"A Clockwork Orange", "line"=>"That was me, that is Alex, and my three droogs, that is Pete, Georgie, and Dim, Dim being really dim, and we sat in the Korova Milkbar making up our rassoodocks what to do with the evening, a flip dark chill winter bastard though dry.",
-		"author"=>"", "cover"=>""
+		"author"=>"Anthony Burgess", "cover"=>"a-clockwork-orange-4.webp"
 	],
 	[
-		"title"=>"Fear and Loathing in Las Vegas", "line"=>"We were somewhere around Barstow on the edge of the desert when the drugs began to take hold."]
+		"title"=>"Fear and Loathing in Las Vegas", "line"=>"We were somewhere around Barstow on the edge of the desert when the drugs began to take hold.",
+		"author"=>"Hunter A. Thompson", "cover"=>"fear-and-loathing-in-las-vegas-harper-perennial-modern-classics.webp"
+	],
 );
 
 $random_keys = array_rand( $lines, 4 );
