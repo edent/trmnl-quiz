@@ -215,95 +215,83 @@ $lines = array(
 	],
 	[
 		"title"=>"A Frolic of His Own", "line"=>"Justice? You get justice in the next world, in this world you have the law.",
-		"author"=>"", "cover"=>""
-	],
-	[
-		"title"=>"Little Fires Everywhere", "line"=>"Sometimes you need to scorch everything to the ground and start over. After the burning the soil is richer, and new things can grow. People are like that, too.",
-		"author"=>"", "cover"=>""
+		"author"=>"William Gaddis", "cover"=>"A-Frolic-of-His-Own-by-William-Gaddis-book-cover-4183649016.jpg"
 	],
 	[
 		"title"=>"Howl’s Moving Castle", "line"=>"In the land of Ingary when such things as seven-league boots and cloaks of invisibility really exists, it is quite a misfortune to be born the eldest of the three.",
-		"author"=>"", "cover"=>""
+		"author"=>"Diana Wynne Jones", "cover"=>"howl-s-moving-castle-1.webp"
 	],
 	[
 		"title"=>"Ulysses", "line"=>"Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed.",
-		"author"=>"", "cover"=>""
+		"author"=>"James Joyce", "cover"=>"ulysses-233.webp"
 	],
 	[
 		"title"=>"The Haunting of Hill House", "line"=>"No live organism can continue for long to exist sanely under conditions of absolute reality walked alone.",
-		"author"=>"", "cover"=>""
+		"author"=>"Shirley Jackson", "cover"=>"the-haunting-of-hill-house.webp"
 	],
 	[
 		"title"=>"The Year of Magical Thinking", "line"=>"Life changes fast. Life changes in the instant. You sit down to dinner and life as you know it ends. The question of self-pity.",
-		"author"=>"", "cover"=>""
+		"author"=>"Joan Didion", "cover"=>"the-year-of-magical-thinking.webp"
 	],
 	[
 		"title"=>"The Restaurant At The End Of The Universe", "line"=>"The story so far: In the beginning, the Universe was created.",
-		"author"=>"", "cover"=>""
-	],
-	[
-		"title"=>"All the Light We Cannot See", "line"=>"At dusk, they pour from the sky. They blow across the ramparts, turn cartwheels over rooftops, flutter into the ravines between houses. Entire streets swirl with them, flashing white against the cobbles. Urgent message to the inhabitants of this town, they say. Depart immediately to open country.",
-		"author"=>"", "cover"=>""
+		"author"=>"Douglas Adams", "cover"=>"the-restaurant-at-the-end-of-the-universe-1.webp"
 	],
 	[
 		"title"=>"The Hobbit", "line"=>"In a hole in the ground, there lived a hobbit.",
-		"author"=>"", "cover"=>""
+		"author"=>"J.R.R.Tolkien", "cover"=>"the-hobbit.webp"
 	],
 	[
 		"title"=>"The Secret History", "line"=>"The snow in the mountains was melting and Bunny had been dead for several weeks before we came to understand the gravity of our situation.",
-		"author"=>"", "cover"=>""
+		"author"=>"Donna Tartt", "cover"=>"the-secret-history.webp"
 	],
 	[
-		"title"=>"An Execution", "line"=>"You are a fingerprint. When you open your eyes on the last day of your life, you see your own thumb.",
-		"author"=>"", "cover"=>""
+		"title"=>"Notes on an Execution", "line"=>"You are a fingerprint. When you open your eyes on the last day of your life, you see your own thumb.",
+		"author"=>"Danya Kukafka", "cover"=>"notes-on-an-execution-1.webp"
 	],
 	[
 		"title"=>"Their Eyes Were Watching God", "line"=>"Ships at a distance have every man’s wish on board. For some, they come in with the tide. For others, they sail forever on the horizon, never out of sight, never landing until the watcher turns his eyes away in resignation, his dreams mocked to death by Time.",
-		"author"=>"", "cover"=>""
+		"author"=>"Zora Neale Hurston", "cover"=>"their-eyes-were-watching-god-35.webp"
 	],
 	[
 		"title"=>"Back When We Were Grownups", "line"=>"Once upon a time, there was a woman who discovered she had turned into the wrong person.",
-		"author"=>"", "cover"=>""
-	],
-	[
-		"title"=>"The Haunting of Hill House", "line"=>"book", "line"=>"No live organism can continue for long to exist sanely under conditions of absolute reality walked alone.",
-		"author"=>"", "cover"=>""
+		"author"=>"Anne Tyler", "cover"=>"back-when-we-were-grown-ups.webp"
 	],
 	[
 		"title"=>"Waiting", "line"=>"Every summer Lin Kong returned to Goose Village to divorce his wife, Shuyu.",
-		"author"=>"", "cover"=>""
+		"author"=>"Ha Jin", "cover"=>"waiting-8.webp"
 	],
 	[
 		"title"=>"Beloved", "line"=>"124 was spiteful. Full of a baby’s venom. The women in the house knew it and so did the children.",
-		"author"=>"", "cover"=>""
+		"author"=>"Toni Morrison", "cover"=>"beloved-26.webp"
 	],
 	[
 		"title"=>"The Making of Americans", "line"=>"Once an angry man dragged his father along the ground through his own orchard. “Stop!” cried the groaning old man at last, “Stop! I did not drag my father beyond this tree.”",
-		"author"=>"", "cover"=>""
+		"author"=>"Getrude Stein", "cover"=>"the-making-of-americans-publix-press.webp"
 	],
 	[
 		"title"=>"The Road", "line"=>"When he woke in the woods in the dark and cold of the night he’d reach out to touch the child sleeping beside him.",
-		"author"=>"", "cover"=>""
+		"author"=>"Cormac McCarthy", "cover"=>"the-road-25.webp"
 	],
 	[
 		"title"=>"Lolita", "line"=>"Lolita, light of my life, fire of my loins. My sin, my soul. Lo-lee-ta: the tip of the tongue taking a trip of three steps down the palate to tap, at three, on the teeth. Lol. Lee. Ta.",
-		"author"=>"", "cover"=>""
+		"author"=>"Vladimir Nabokov", "cover"=>"lolita-2.webp"
 	],
 	[
 		"title"=>"The Shadow of the Wind", "line"=>"I still remember the day my father took me to the Cemetery of Forgotten Books for the first time.",
-		"author"=>"", "cover"=>""
+		"author"=>"Carlos Ruiz Zafon", "cover"=>"the-shadow-of-the-wind.webp"
 	],
 	[
 		"title"=>"City of Glass", "line"=>"It was a wrong number that started it, the telephone ringing three times in the dead of night, and the voice on the other end asking for someone he was not.",
-		"author"=>"", "cover"=>""
+		"author"=>"Pau Auster", "cover"=>"city-of-glass-8.jpg"
 	],
 	[
 		"title"=>"The Night Circus", "line"=>"The circus arrives without warning. No announcements precede it, no paper notices on downtown posts and billboards, no mentions or advertisements in local newspapers. It is simply there, when yesterday it was not.",
-		"author"=>"", "cover"=>""
+		"author"=>"Erin Morgenstern", "cover"=>"the-night-circus-7.webp"
 	],
 	[
 		"title"=>"Paul Clifford", "line"=>"It was a dark and stormy night; the rain fell in torrents, except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness.",
-		"author"=>"", "cover"=>""
+		"author"=>"Edward George Bulwer-Lytton", "cover"=>"paul-clifford-19.webp"
 	],
 	[
 		"title"=>"The Color Purple", "line"=>"You better not never tell nobody but God. It’d kill your mammy.",
