@@ -295,59 +295,55 @@ $lines = array(
 	],
 	[
 		"title"=>"The Color Purple", "line"=>"You better not never tell nobody but God. It’d kill your mammy.",
-		"author"=>"", "cover"=>""
+		"author"=>"Alice Walker", "cover"=>"the-color-purple.webp"
 	],
 	[
 		"title"=>"Murphy", "line"=>"The sun shone, having no alternative, on the nothing new.",
-		"author"=>"", "cover"=>""
+		"author"=>"Samuel Beckett", "cover"=>"murphy-1.webp"
 	],
 	[
 		"title"=>"Night Watch", "line"=>"Sam Vimes sighed when he heard the scream, but he finished shaving before he did anything about it.",
-		"author"=>"", "cover"=>""
+		"author"=>"Terry Pratchett", "cover"=>"night-watch-9.webp"
 	],
 	[
-		"title"=>"Charlotte", "line"=>"Where’s Papa going with that ax? said Fern to her mother as they were setting the table for breakfast.",
-		"author"=>"", "cover"=>""
-	],
-	[
-		"title"=>"White Oleander", "line"=>"The Santa Anas blew in hot from the desert, shriveling the last of the spring grass into whiskers of pale straw.",
-		"author"=>"", "cover"=>""
+		"title"=>"Charlotte's Web", "line"=>"Where’s Papa going with that ax? said Fern to her mother as they were setting the table for breakfast.",
+		"author"=>"E.B. White", "cover"=>"charlotte-s-web-3.webp"
 	],
 	[
 		"title"=>"Don Quixote", "line"=>"Somewhere in la Mancha, in a place whose name I do not care to remember, a gentleman lived not long ago, one of those who has a lance and ancient shield on a shelf and keeps a skinny nag and a greyhound for racing.",
-		"author"=>"", "cover"=>""
+		"author"=>"Miguel de Cervantes", "cover"=>"don-quixote-222.webp"
 	],
 	[
 		"title"=>"Tristram Shandy", "line"=>"I wish either my father or my mother, or indeed both of them, as they were in duty both equally bound to it, had minded what they were about when they begot me; had they duly considered how much depended upon what they were then doing;—that not only the production of a rational Being was concerned in it, but that possibly the happy formation and temperature of his body, perhaps his genius and the very cast of his mind;—and, for aught they knew to the contrary, even the fortunes of his whole house might take their turn from the humours and dispositions which were then uppermost:—Had they duly weighed and considered all this, and proceeded accordingly,—I am verily persuaded I should have made a quite different figure in the world, from that, in which the reader is likely to see me.",
-		"author"=>"", "cover"=>""
+		"author"=>"Laurence Sterne", "cover"=>"tristram-shandy-1.webp"
 	],
 	[
 		"title"=>"Goldfinger", "line"=>"James Bond, with two double bourbons inside him, sat in the final departure lounge of Miami Airport and thought about life and death.",
-		"author"=>"", "cover"=>""
+		"author"=>"Ian Fleming", "cover"=>"goldfinger-37.jpg"
 	],
 	[
 		"title"=>"Middlemarch", "line"=>"Miss Brooke had that kind of beauty which seems to be thrown into relief by poor dress.",
-		"author"=>"", "cover"=>""
+		"author"=>"George Eliot", "cover"=>"middlemarch-197.webp"
 	],
 	[
 		"title"=>"The Crying of Lot 49", "line"=>"One summer afternoon Mrs. Oedipa Maas came home from a Tupperware party whose hostess had put perhaps too much kirsch in the fondue to find that she, Oedipa, had been named executor, or she supposed executrix, of the estate of one Pierce Inverarity, a California real estate mogul who had once lost two million dollars in his spare time but still had assets numerous and tangled enough to make the job of sorting it all out more than honorary.",
-		"author"=>"", "cover"=>""
+		"author"=>"Thomas Pynchon", "cover"=>"the-crying-of-lot-49.webp"
 	],
 	[
 		"title"=>"Cat’s Eye", "line"=>"Time is not a line but a dimension, like the dimensions of space.",
-		"author"=>"", "cover"=>""
+		"author"=>"Margaret Atwood", "cover"=>"cat-s-eye.webp"
 	],
 	[
 		"title"=>"Swann’s Way", "line"=>"For a long time, I went to bed early.",
-		"author"=>"", "cover"=>""
+		"author"=>"Marcel Proust", "cover"=>"swann-s-way-in-search-of-lost-time-volume-1.webp"
 	],
 	[
 		"title"=>"The Brief History Of The Dead", "line"=>"When the blind man arrived in the city, he claimed that he had traveled the desert of living sand.",
-		"author"=>"", "cover"=>""
+		"author"=>"Kevin Brockmeier", "cover"=>"the-brief-history-of-the-dead.webp"
 	],
 	[
 		"title"=>"The Invisible Man", "line"=>"The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking as it seemed from Bramblehurst railway station, and carrying a little black portmanteau in his thickly gloved hand.",
-		"author"=>"", "cover"=>""
+		"author"=>"H.G.Wells", "cover"=>"the-invisible-man-346.webp"
 	],
 	[
 		"title"=>"Changing Places: A Tale Of Two Campuses", "line"=>"High, high above the North Pole on the first day of 1969, two professors of English Literature approached each other at a combined velocity of 1200 miles per hour.",
