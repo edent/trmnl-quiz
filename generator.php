@@ -3,11 +3,11 @@
 $lines = array(
 	[
 		"title"=>"Moby Dick", "line"=>"Call me Ishmael.",
-		"author"=>"", "cover"=>""
+		"author"=>"Herman Melville", "cover"=>"moby-dick-collins-classics.webp"
 	],
 	[
 		"title"=>"Pride and Prejudice", "line"=>"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-		"author"=>"", "cover"=>""
+		"author"=>"Jane Austen", "cover"=>"pride-and-prejudice-526.jpg"
 	],
 	[
 		"title"=>"One Hundred Years of Solitude", "line"=>"Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.",
