@@ -139,51 +139,51 @@ $lines = array(
 	],
 	[
 		"title"=>"Alice in Wonderland", "line"=>"Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice, “without pictures or conversations.",
-		"author"=>"", "cover"=>""
+		"author"=>"Lewis Carroll", "cover"=>"alice-in-wonderland-88.webp"
 	],
 	[
-		"title"=>"Markus Zusak", "line"=>"Here is a small fact: You are going to die.",
-		"author"=>"", "cover"=>""
+		"title"=>"The Book Thief", "line"=>"Here is a small fact: You are going to die.",
+		"author"=>"Markus Zusak", "cover"=>"the-book-thief-9.webp"
 	],
 	[
 		"title"=>"Paradise", "line"=>"They shoot the white girl first.",
-		"author"=>"", "cover"=>""
+		"author"=>"Toni Morrison", "cover"=>"91bba788dcfbe33b.jpg"
 	],
 	[
 		"title"=>"Fahrenheit 451", "line"=>"It was a pleasure to burn.",
-		"author"=>"", "cover"=>""
+		"author"=>"Ray Bradbury", "cover"=>"fahrenheit-451-the-gripping-and-inspiring-classic-of-dystopian-science-fiction.webp"
 	],
 	[
 		"title"=>"The Push", "line"=>"Your house glows at night like everything inside is on fire.",
-		"author"=>"", "cover"=>""
+		"author"=>"Ashley Audrain", "cover"=>"the-push-9.webp"
 	],
 	[
 		"title"=>"The Outsiders", "line"=>"When I stepped out into the bright sunlight from the darkness of the movie house, I had only two things on my mind: Paul Newman and a ride home.",
-		"author"=>"", "cover"=>""
+		"author"=>"S.E.Hinton", "cover"=>"9780141368887-2381288431.jpg"
 	],
 	[
 		"title"=>"Neuromancer", "line"=>"The sky above the port was the color of television, tuned to a dead channel.",
-		"author"=>"", "cover"=>""
+		"author"=>"William Gibson", "cover"=>"neuromancer-8.webp"
 	],
 	[
 		"title"=>"The Lonely Bones", "line"=>"My name was Salmon, like the fish; first name, Susie. I was fourteen when I was murdered on December 6, 1973.",
-		"author"=>"", "cover"=>""
+		"author"=>"Alice Sebold", "cover"=>"the-lovely-bones-6.webp"
 	],
 	[
 		"title"=>"Middlesex", "line"=>"I was born twice: first, as a baby girl, on the remarkably smogless Detroit day January of 1960; and then again, as a teenage boy, in an emergency room near Petoskey, Michigan, in August of 1974.",
-		"author"=>"", "cover"=>""
+		"author"=>"Jeffrey Eugenides", "cover"=>"middlesex.webp"
 	],
 	[
 		"title"=>"The Bell Jar", "line"=>"It was a queer, sultry summer, the summer they electrocuted the Rosenbergs, and I didn’t know what I was doing in New York.",
-		"author"=>"", "cover"=>""
+		"author"=>"Sylvia Plath", "cover"=>"the-bell-jar-1.webp"
 	],
 	[
 		"title"=>"The Go-Between", "line"=>"The past is a foreign country; they do things differently there.",
-		"author"=>"", "cover"=>""
+		"author"=>"L.P.Hartley", "cover"=>"the-go-between-9.jpg"
 	],
 	[
 		"title"=>"The Five People You Meet in Heaven", "line"=>"This is the story of a man named Eddie, and it starts at the end, with Eddie dying in the sun. It may seem strange to start a story with an ending, but all endings are also beginnings. We just don’t know it at the time.",
-		"author"=>"", "cover"=>""
+		"author"=>"Mitch Albom", "cover"=>"the-five-people-you-meet-in-heaven.webp"
 	],
 	[
 		"title"=>"The Princess Bride", "line"=>"This is my favorite book in all the world, though I have never read it.",
