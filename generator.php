@@ -67,27 +67,27 @@ $lines = array(
 	],
 	[
 		"title"=>"Frankenstein", "line"=>"You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
-		"author"=>"", "cover"=>""
+		"author"=>"Mary Shelley", "cover"=>"frankenstein-902.webp"
 	],
 	[
 		"title"=>"Twenty Thousand Leagues Under the Sea", "line"=>"The year 1866 was signalized by a remarkable incident, a mysterious and inexplicable phenomenon.",
-		"author"=>"", "cover"=>""
+		"author"=>"Jules Verne", "cover"=>"twenty-thousand-leagues-under-the-sea-170.webp"
 	],
 	[
 		"title"=>"The Lion the Witch and the Wardrobe", "line"=>"Once, there were four children whose names were Peter, Susan, Edmund, and Lucy. This story is about something that happened to them when they were sent away from London during the war because of the air-raids.",
-		"author"=>"", "cover"=>""
+		"author"=>"C.S. Lewis", "cover"=>"the-lion-the-witch-and-the-wardrobe-32.webp"
 	],
 	[
 		"title"=>"The Godfather", "line"=>"Amerigo Bonasera sat in New York Criminal Court Number 3 and waited for justice; vengeance on the men who had so cruelly hurt his daughter, who had tried to dishonor her.",
-		"author"=>"", "cover"=>""
+		"author"=>"Mario Puzo", "cover"=>"the-godfather-1.webp"
 	],
 	[
 		"title"=>"The Alchemist", "line"=>"The boy’s name was Santiago.",
-		"author"=>"", "cover"=>""
+		"author"=>"Paulo Coelho", "cover"=>"the-alchemist-38.webp"
 	],
 	[
 		"title"=>"David Copperfield", "line"=>"Whether I shall turn out to be the hero of my own life, or whether that station will be held by anybody else, these pages must show.",
-		"author"=>"", "cover"=>""
+		"author"=>"Charles Dickens", "cover"=>"david-copperfield-455.webp"
 	],
 	[
 		"title"=>"The Stranger", "line"=>"Mother died today. Or maybe yesterday, I don’t know.",
