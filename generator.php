@@ -55,15 +55,15 @@ $lines = array(
 	],
 	[
 		"title"=>"A Portrait of the Artist as a Young Man", "line"=>"Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo.",
-		"author"=>"", "cover"=>""
+		"author"=>"James Joyce", "cover"=>"a-portrait-of-the-artist-as-a-young-man-185.jpg"
 	],
 	[
 		"title"=>"The Nightingale", "line"=>"If I have learned anything in this long life of mine, it is this", "line"=>"In love we find out who we want to be; in war we find out who we are.",
-		"author"=>"", "cover"=>""
+		"author"=>"Kristin Hannah", "cover"=>"the-nightingale-15.webp"
 	],
 	[
 		"title"=>"The Good Soldier", "line"=>"This is the saddest story I have ever heard.",
-		"author"=>"", "cover"=>""
+		"author"=>"Ford Madox Ford", "cover"=>"the-good-soldier-17.webp"
 	],
 	[
 		"title"=>"Frankenstein", "line"=>"You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
