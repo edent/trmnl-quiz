@@ -187,35 +187,31 @@ $lines = array(
 	],
 	[
 		"title"=>"The Princess Bride", "line"=>"This is my favorite book in all the world, though I have never read it.",
-		"author"=>"", "cover"=>""
+		"author"=>"William Goldman", "cover"=>"the-princess-bride.jpg"
 	],
 	[
 		"title"=>"White Oleander", "line"=>"The Santa Anas blew in hot from the desert, shriveling the last of the spring grass into whiskers of pale straw.",
-		"author"=>"", "cover"=>""
+		"author"=>"Janet Fitch", "cover"=>"white-oleander-1.webp"
 	],
 	[
 		"title"=>"The Crow Road", "line"=>"It was the day my grandmother exploded.",
-		"author"=>"", "cover"=>""
+		"author"=>"Iain Banks", "cover"=>"the-crow-road.webp"
 	],
 	[
 		"title"=>"Little Fires Everywhere", "line"=>"Sometimes you need to scorch everything to the ground and start over. After the burning the soil is richer, and new things can grow. People are like that, too.",
-		"author"=>"", "cover"=>""
+		"author"=>"Celeste Ng", "cover"=>"little-fires-everywhere.webp"
 	],
 	[
 		"title"=>"All the Light We Cannot See", "line"=>"At dusk they pour from the sky. They blow across the ramparts, turn cartwheels over rooftops, flutter into the ravines between houses. Entire streets swirl with them, flashing white against the cobbles. Urgent message to the inhabitants of this town, they say. Depart immediately to open country.",
-		"author"=>"", "cover"=>""
+		"author"=>"Anthony Doerr", "cover"=>"all-the-light-we-cannot-see-a-novel-by-anthony-doerr-trivia-on-books.webp"
 	],
 	[
 		"title"=>"The Bad Beginning", "line"=>"If you are interested in stories with happy endings, you would be better off reading some other book. In this book, not only is there no happy ending, there is no happy beginning and very few happy things in the middle.",
-		"author"=>"", "cover"=>""
+		"author"=>"Lemony Snicket", "cover"=>"a-series-of-unfortunate-events-1-the-bad-beginning.webp"
 	],
 	[
 		"title"=>"Peter Pan", "line"=>"All children, except one, grow up.",
-		"author"=>"", "cover"=>""
-	],
-	[
-		"title"=>"The Five People You Meet in Heaven", "line"=>"This is the story of a man named Eddie and it starts at the end, with Eddie dying in the sun. It may seem strange to start a story with an ending, but all endings are also beginnings. We just don’t know it at the time.",
-		"author"=>"", "cover"=>""
+		"author"=>"J. M. Barrie", "cover"=>"peter-pan-309.webp"
 	],
 	[
 		"title"=>"A Frolic of His Own", "line"=>"Justice? You get justice in the next world, in this world you have the law.",
