@@ -91,31 +91,31 @@ $lines = array(
 	],
 	[
 		"title"=>"The Stranger", "line"=>"Mother died today. Or maybe yesterday, I don’t know.",
-		"author"=>"", "cover"=>""
+		"author"=>"Albert Camus", "cover"=>"the-stranger-149.webp"
 	],
 	[
 		"title"=>"The Great Gatsby", "line"=>"In my younger and more vulnerable years, my father gave me some advice that I’ve been turning over in my mind ever since.",
-		"author"=>"", "cover"=>""
+		"author"=>"F.Scott Fitzgerald", "cover"=>"the-great-gatsby-424.webp"
 	],
 	[
 		"title"=>"Gone with the Wind", "line"=>"Scarlett O’Hara was not beautiful, but men seldom realized it when caught by her charm as the Tarleton twins were.",
-		"author"=>"", "cover"=>""
+		"author"=>"Margaret Mitchell", "cover"=>"gone-with-the-wind-58.webp"
 	],
 	[
 		"title"=>"Mrs. Dalloway", "line"=>"Mrs. Dalloway said she would buy the flowers herself.",
-		"author"=>"", "cover"=>""
+		"author"=>"Virginia Woolf", "cover"=>"mrs-dalloway-202.webp"
 	],
 	[
 		"title"=>"Slaughterhouse-Five", "line"=>"All this happened, more or less.",
-		"author"=>"", "cover"=>""
+		"author"=>"Kurt Vonnegut", "cover"=>"slaughterhouse-5-1.webp"
 	],
 	[
-		"title"=>"Harry Potter and the Sorcerer’s Stone", "line"=>"Mr. & Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.",
-		"author"=>"", "cover"=>""
+		"title"=>"Harry Potter and the Philosopher’s Stone", "line"=>"Mr. & Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.",
+		"author"=>"J. K. Rowling", "cover"=>"harry-potter-and-the-philosopher-s-stone-3.webp"
 	],
 	[
 		"title"=>"A Thousand Splendid Suns", "line"=>"Mariam was five years old the first time she heard the word harami.",
-		"author"=>"", "cover"=>""
+		"author"=>"Khaled Hosseini", "cover"=>"a-thousand-splendid-suns.webp"
 	],
 	[
 		"title"=>"The Gunslinger", "line"=>"The man in black fled across the desert and the gunslinger followed.",
@@ -123,19 +123,19 @@ $lines = array(
 	],
 	[
 		"title"=>"The Hitchhiker’s Guide to the Galaxy", "line"=>"Far out in the uncharted backwaters of the unfashionable end of the Western Spiral arm of the Galaxy lies a small unregarded yellow sun.",
-		"author"=>"", "cover"=>""
+		"author"=>"Douglas Adams", "cover"=>"the-hitchhiker-s-guide-to-the-galaxy-2.webp"
 	],
 	[
 		"title"=>"A Christmas Carol", "line"=>"MARLEY WAS DEAD, to begin with.",
-		"author"=>"", "cover"=>""
+		"author"=>"Charles Dickens", "cover"=>"a-christmas-carol-vintage-classics-1.webp"
 	],
 	[
 		"title"=>"Catch-22", "line"=>"It was love at first sight.  The first time Yossarian saw the chaplain, he fell madly in love with him.",
-		"author"=>"", "cover"=>""
+		"author"=>"Joseph Heller", "cover"=>"catch-22.webp"
 	],
 	[
 		"title"=>"The Old Man and the Sea", "line"=>"He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish.",
-		"author"=>"", "cover"=>""
+		"author"=>"Ernest Hemingway", "cover"=>"the-old-man-and-the-sea-69.jpg"
 	],
 	[
 		"title"=>"Alice in Wonderland", "line"=>"Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice, “without pictures or conversations.",
