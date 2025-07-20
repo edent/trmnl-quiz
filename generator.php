@@ -35,23 +35,23 @@ $lines = array(
 	],
 	[
 		"title"=>"Miss Lonelyhearts.", "line"=>"The Miss Lonelyhearts of the New York Post-Dispatch (Are you in trouble? Do-you-need-advice? Write-to-Miss-Lonelyhearts-and-she-will-help-you) sat at his desk and stared at a piece of white cardboard.",
-		"author"=>"", "cover"=>""
+		"author"=>"Nathanael West", "cover"=>"miss-lonelyhearts.jpg"
 	],
 	[
 		"title"=>"Adventures of Huckleberry Finn", "line"=>"You don’t know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain’t no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly.",
-		"author"=>"", "cover"=>""
+		"author"=>"Mark Twain", "cover"=>"the-adventures-of-huckleberry-finn-249.webp"
 	],
 	[
 		"title"=>"The Metamorphosis", "line"=>"One morning, as Gregor Samsa awoke from anxious dreams, he discovered that during the night he had been transformed into a monstrous bug.",
-		"author"=>"", "cover"=>""
+		"author"=>"Franz Kafka", "cover"=>"the-metamorphosis-183.webp"
 	],
 	[
 		"title"=>"The Trial", "line"=>"Someone must have slandered Josef K., for one morning, without having done anything truly wrong, he was arrested.",
-		"author"=>"", "cover"=>""
+		"author"=>"Franz Kafka", "cover"=>"the-trial-167.webp"
 	],
 	[
 		"title"=>"The Catcher in the Rye", "line"=>"If you really want to hear about it, the first thing you’ll probably want to know is where I was born, and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don’t feel like going into it, if you want to know the truth.",
-		"author"=>"", "cover"=>""
+		"author"=>"J.D. Salinger", "cover"=>"the-catcher-in-the-rye-5.webp"
 	],
 	[
 		"title"=>"A Portrait of the Artist as a Young Man", "line"=>"Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo.",
