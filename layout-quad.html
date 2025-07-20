@@ -1,18 +1,16 @@
 <div class="title_bar">
-	<img class="image" src="https://viii.fi/test/quiz/icon.png" />
-	<span class="title">Library Quiz!</span>
-  <span id="bottom-bar" 
-		class="instance">Answer at {{ "now" | date: "%s" | plus: trmnl.user.utc_offset| plus: 600 | date: "%H:%M" }}</span>
+	<img class="image" src="https://viii.fi/trmnl/quiz/icon.png" />
+	<span class="title">Library Quiz! Guess the classic book from its opening line…</span>
 </div>
 <div class="layout">
-
-		<div class="flex flex--col flex--left flex--center-y">
+	<div class="flex flex--col flex--left flex--center-y">
 		<span class="value value--xxxlarge" 
 			data-value-fit="true" 
-			data-value-fit-max-height="180">❝{{ line }}❞</span>
+			data-value-fit-max-height="300">❝{{ line }}❞</span>
 	</div>
 
 	<div id="right" class="flex flex--col flex--center-y no-shrink">
+		<p>Is the answer:</p>
 		{% for answer in answers %}
 		<div class="item">
 			<div class="meta">
@@ -24,19 +22,25 @@
 			</div>
 		</div>
 		{% endfor %}
+		<p>Guess now!</p>
 	</div>
 
-		<script>  
-			console.log("Script running!")
-			document.addEventListener("DOMContentLoaded", function(e) { 
-				setTimeout(() => {
-				const r = document.getElementById('right');
-				r.innerHTML='<img class="image-dither" src="https://viii.fi/test/quiz/covers/{{ cover }}" width="120">';
-				const bb = document.getElementById("bottom-bar");
-				// 5 minutes
-				bb.innerHTML = 'Next question at {{ "now" | date: "%s" | plus: trmnl.user.utc_offset| plus: 300 | date: "%H:%M" }}';
-				}, "300000");
-			});
-		</script>
-	</div>
+	<script>  
+		console.log("Script running!")
+		document.addEventListener("DOMContentLoaded", function(e) { 
+			setTimeout(() => {
+			const r = document.getElementById('right');
+			r.innerHTML='<img class="image-dither" src="https://viii.fi/trmnl/quiz/covers/{{ cover }}" height="390">';
+			const bb = document.getElementById("bottom-bar");
+			// 5 minutes
+			bb.innerHTML = 'The next question will appear at {{ "now" | date: "%s" | plus: trmnl.user.utc_offset| plus: 300 | date: "%H:%M" }}';
+			}, "300000");
+		});
+	</script>
+</div>
+
+<div class="title_bar">
+	<!-- Answer will appear in 10 minutes -->
+	<span id="bottom-bar" 
+		class="instance">Answer will appear at {{ "now" | date: "%s" | plus: trmnl.user.utc_offset| plus: 600 | date: "%H:%M" }}</span>
 </div>

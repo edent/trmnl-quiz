@@ -1,5 +1,5 @@
 <div class="title_bar">
-	<img class="image" src="https://viii.fi/test/quiz/icon.png" />
+	<img class="image" src="https://viii.fi/trmnl/quiz/icon.png" />
 	<span class="title">Library Quiz!</span>
     <span id="bottom-bar" 
 		class="instance">Answer will appear at {{ "now" | date: "%s" | plus: trmnl.user.utc_offset| plus: 600 | date: "%H:%M" }}</span>
@@ -32,7 +32,7 @@
 			document.addEventListener("DOMContentLoaded", function(e) { 
 				setTimeout(() => {
 				const r = document.getElementById('right');
-				r.innerHTML='<img class="image image-dither" src="https://viii.fi/test/quiz/covers/{{ cover }}" height="190">';
+				r.innerHTML='<img class="image image-dither" src="https://viii.fi/trmnl/quiz/covers/{{ cover }}" height="190">';
 				const bb = document.getElementById("bottom-bar");
 				// 5 minutes
 				bb.innerHTML = 'The next question will appear at {{ "now" | date: "%s" | plus: trmnl.user.utc_offset| plus: 300 | date: "%H:%M" }}';

@@ -1,6 +1,6 @@
 <?php
 
-$lines = array(
+$books = array(
 	[
 		"title"=>"Moby Dick", "line"=>"Call me Ishmael.",
 		"author"=>"Herman Melville", "cover"=>"moby-dick-collins-classics.webp"
@@ -283,7 +283,7 @@ $lines = array(
 	],
 	[
 		"title"=>"City of Glass", "line"=>"It was a wrong number that started it, the telephone ringing three times in the dead of night, and the voice on the other end asking for someone he was not.",
-		"author"=>"Pau Auster", "cover"=>"city-of-glass-8.jpg"
+		"author"=>"Paul Auster", "cover"=>"city-of-glass-8.jpg"
 	],
 	[
 		"title"=>"The Night Circus", "line"=>"The circus arrives without warning. No announcements precede it, no paper notices on downtown posts and billboards, no mentions or advertisements in local newspapers. It is simply there, when yesterday it was not.",
@@ -379,37 +379,41 @@ $lines = array(
 	],
 );
 
-$random_keys = array_rand( $lines, 4 );
+//	Get 4 random books.
+$random_keys = array_rand( $books, 4 );
 
+//	Randomise the order.
 shuffle( $random_keys );
 
+//	Pick one answer.
 $random_answer = array_rand( $random_keys );
 
-
-$output = array(
+//	Generate the quiz.
+$quiz = array(
 	"text"   => "Quiz Questions",
 	"author" => "edent",
-	"line"   => $lines[ $random_keys[ $random_answer] ]["line"],
-	"cover"  => $lines[ $random_keys[ $random_answer] ]["cover"],
+	"line"   => $books[ $random_keys[ $random_answer] ]["line"],
+	"cover"  => $books[ $random_keys[ $random_answer] ]["cover"],
 	"answers"=> [
 		[
-			"title"  => $lines[ $random_keys[0] ]["title"],
-			"author" => $lines[ $random_keys[0] ]["author"],
+			"title"  => $books[ $random_keys[0] ]["title"],
+			"author" => $books[ $random_keys[0] ]["author"],
 		],
 		[
-			"title"  => $lines[ $random_keys[1] ]["title"],
-			"author" => $lines[ $random_keys[1] ]["author"],
+			"title"  => $books[ $random_keys[1] ]["title"],
+			"author" => $books[ $random_keys[1] ]["author"],
 		],
 		[
-			"title"  => $lines[ $random_keys[2] ]["title"],
-			"author" => $lines[ $random_keys[2] ]["author"],
+			"title"  => $books[ $random_keys[2] ]["title"],
+			"author" => $books[ $random_keys[2] ]["author"],
 		],
 		[
-			"title"  => $lines[ $random_keys[3] ]["title"],
-			"author" => $lines[ $random_keys[3] ]["author"],
+			"title"  => $books[ $random_keys[3] ]["title"],
+			"author" => $books[ $random_keys[3] ]["author"],
 		]
 	]
 );
 
+//	Send the JSON.
 header("Content-Type: application/json");
-echo json_encode($output);
+echo json_encode( $quiz );
