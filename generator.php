@@ -179,11 +179,11 @@ $lines = array(
 	],
 	[
 		"title"=>"The Go-Between", "line"=>"The past is a foreign country; they do things differently there.",
-		"author"=>"", "cover"=>""
+		"author"=>"L.P.Hartley", "cover"=>"the-go-between-9.jpg"
 	],
 	[
 		"title"=>"The Five People You Meet in Heaven", "line"=>"This is the story of a man named Eddie, and it starts at the end, with Eddie dying in the sun. It may seem strange to start a story with an ending, but all endings are also beginnings. We just don’t know it at the time.",
-		"author"=>"", "cover"=>""
+		"author"=>"Mitch Albom", "cover"=>"the-five-people-you-meet-in-heaven.webp"
 	],
 	[
 		"title"=>"The Princess Bride", "line"=>"This is my favorite book in all the world, though I have never read it.",
