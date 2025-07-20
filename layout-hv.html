@@ -1,0 +1,47 @@
+<div class="title_bar">
+	<img class="image" src="https://viii.fi/test/quiz/icon.png" />
+	<span class="title">Library Quiz! Guess the book…</span>
+</div>
+<div class="layout">
+
+	<div class="grid">
+
+		<div class="col  gap--xxlarge">
+    		<span class="value value--xxxlarge" 
+    			data-value-fit="true" 
+    			data-value-fit-max-height="170">❝{{ line }}❞</span>
+		
+            <div id="right" class="flex flex--col flex--center-x">
+			{% for answer in answers %}
+			<div class="item">
+				<div class="meta">
+					<span class="index"> {{ forloop.index }}</span>
+				</div>
+				<div class="content">
+					<span class="title title--small">{{ answer.title }}</span>
+					<span class="description">{{ answer.author }}</span>
+				</div>
+			</div>
+			{% endfor %}
+            </div>
+		</div>
+
+		<script>  
+			console.log("Script running!")
+			document.addEventListener("DOMContentLoaded", function(e) { 
+				setTimeout(() => {
+				const r = document.getElementById('right');
+				r.innerHTML='<img class="image image-dither " src="https://viii.fi/test/quiz/covers/{{ cover }}" height="200">';
+				const bb = document.getElementById("bottom-bar");
+				// 5 minutes
+				bb.innerHTML = 'The next question will appear at {{ "now" | date: "%s" | plus: trmnl.user.utc_offset| plus: 300 | date: "%H:%M" }}';
+				}, "300000");
+			});
+		</script>
+	</div>
+</div>
+<div class="title_bar">
+	<!-- Answer will appear in 10 minutes -->
+	<span id="bottom-bar" 
+		class="instance">Answer will appear at {{ "now" | date: "%s" | plus: trmnl.user.utc_offset| plus: 600 | date: "%H:%M" }}</span>
+</div>
