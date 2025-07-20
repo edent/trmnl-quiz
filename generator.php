@@ -11,27 +11,27 @@ $lines = array(
 	],
 	[
 		"title"=>"One Hundred Years of Solitude", "line"=>"Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.",
-		"author"=>"", "cover"=>""
+		"author"=>"Gabriel Garcia Marquez", "cover"=>"one-hundred-years-of-solitude-3.webp"
 	],
 	[
 		"title"=>"Anna Karenina", "line"=>"Happy families are all alike; every unhappy family is unhappy in its own way.",
-		"author"=>"", "cover"=>""
+		"author"=>"Leo Tolstoy", "cover"=>"anna-karenina-34.webp"
 	],
 	[
 		"title"=>"A Tale of Two Cities", "line"=>"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we were all going direct.to Heaven, we were all going direct the other way.",
-		"author"=>"", "cover"=>""
+		"author"=>"Charles Dickens", "cover"=>"a-tale-of-two-cities-336.webp"
 	],
 	[
 		"title"=>"Gravity’s Rainbow", "line"=>"A screaming comes across the sky.",
-		"author"=>"", "cover"=>""
+		"author"=>"Thomas Pynchon", "cover"=>"gravity-s-rainbow.webp"
 	],
 	[
 		"title"=>"1984", "line"=>"It was a bright cold day in April, and the clocks were striking thirteen.",
-		"author"=>"", "cover"=>""
+		"author"=>"George Orwell", "cover"=>"13xLRb-vHz2DfdgvhkjkHg.jpg"
 	],
 	[
 		"title"=>"Invisible Man", "line"=>"I am an invisible man.",
-		"author"=>"", "cover"=>""
+		"author"=>"Ralph Ellison", "cover"=>"invisible-man-6.jpg"
 	],
 	[
 		"title"=>"Miss Lonelyhearts.", "line"=>"The Miss Lonelyhearts of the New York Post-Dispatch (Are you in trouble? Do-you-need-advice? Write-to-Miss-Lonelyhearts-and-she-will-help-you) sat at his desk and stared at a piece of white cardboard.",
