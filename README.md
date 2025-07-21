@@ -30,9 +30,9 @@ A book entry looks like:
 ```php
 [
 	"title"=>"Moby Dick", 
-    "line"=>"Call me Ishmael.",
+	"line"=>"Call me Ishmael.",
 	"author"=>"Herman Melville", 
-    "cover"=>"moby-dick-collins-classics.webp"
+	"cover"=>"moby-dick-collins-classics.webp"
 ],
 ```
 
