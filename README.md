@@ -2,6 +2,8 @@
 
 Entered for the [bookreaders Hackaton](https://usetrmnl.com/blog/hackathon-book-readers), 2025
 
+<img src="https://raw.githubusercontent.com/edent/trmnl-quiz/refs/heads/main/demo.jpeg" alt="An e-ink display showing…which book it was from."> 
+
 ## About
 
 Librarians can create an engaging quiz based on some of the most iconic books on their shelves.
